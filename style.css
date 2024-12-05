@@ -1,0 +1,10 @@
+body {
+    background-color: #f0f8ff; /* Light blue background */
+    margin: 0;
+    font-family: 'Verdana', sans-serif;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
